@@ -2,6 +2,15 @@
 body {
 }
 
+
+.nav li {
+  display: inline-block;
+  width: 90px;
+  background-color: black;
+  color: rgb(31, 228, 228);
+  align-content: center;
+}
+
 h1 {
   background-color: #313b96;
   color: azure;
@@ -17,8 +26,6 @@ div.photo {
     height: 200px;
 }
 
-img {
-  image-orientation: from-image;
-}
+
 
 </style>
