@@ -1,4 +1,27 @@
 <style>
+body {
+}
+
+/* div.profilepic {
+  position: relative;
+  width: 150px;
+  float: right;
+  z-index: 1;
+}
+
+div.profilepic img {
+  width: 100%;
+  float: right;
+}
+
+
+.nav li {
+  display: inline-block;
+  width: 90px;
+  background-color: black;
+  color: rgb(31, 228, 228);
+  align-content: center;
+} */
 
 
 div.profilepic {
@@ -30,7 +53,5 @@ h1 {
 h2 {
     background-color: rgb(179, 179, 236);
   } 
-
-
 
 </style>
